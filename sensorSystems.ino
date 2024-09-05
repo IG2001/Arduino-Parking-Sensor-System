@@ -1,5 +1,4 @@
-//EECS 2032 Project Code
-//Inderpreet Gill 217351057
+//Inderpreet Gill 
 
 //Pins and Variables are declared/defined here
 int gLed = 5;
